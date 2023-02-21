@@ -1,4 +1,5 @@
 com/example/odigeo/battleship/SquareTest.class
+com/example/odigeo/PlayerTest.class
 com/example/odigeo/OdigeoApplicationTests.class
-com/example/odigeo/battleship/ActionTest.class
 com/example/odigeo/battleship/FieldTest.class
+com/example/odigeo/MatchTest.class

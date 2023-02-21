@@ -1,8 +1,9 @@
 package com.example.odigeo.battleship;
 
+import com.example.odigeo.battleship.domain.Square;
 import org.junit.Test;
 import static org.junit.Assert.*;
-import static com.example.odigeo.battleship.Status.*;
+import static com.example.odigeo.battleship.domain.Status.*;
 
 public class SquareTest {
 
